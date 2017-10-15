@@ -1,11 +1,13 @@
-# Udacity Self-Driving Car Nanodegree Program
+Udacity Self-Driving Car Nanodegree Program
+====
 
-# Projects
-| Project | Topic |
-|---------|-------|
-| 00 | [Finding Lane Lines on the Road](https://github.com/tuliren/CarND-LaneLines-P1) |
+## Projects
 
-# Lectures
-| Chapter | Topic |
-|---------|-------|
-| 01 | [Lane line detection](https://github.com/tuliren/sdc-nd/tree/master/01-lane-line-detection) |
+### [01 Finding lane lines on the road](https://github.com/tuliren/CarND-LaneLines-P1)
+
+
+## Lectures
+
+### [01 Lane line detection](01-lane-line-detection/)
+- [Color selection](01-lane-line-detection/color_selection_and_region.ipynb)
+- [Canny edge detection](01-lane-line-detection/canny_edge_detection.ipynb)
