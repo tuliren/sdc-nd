@@ -8,4 +8,4 @@
 # Lectures
 | Chapter | Topic |
 |---------|-------|
-| 00 | [Lane line detection](https://github.com/tuliren/sdc-nd/tree/master/00-lane-line-detection) |
+| 01 | [Lane line detection](https://github.com/tuliren/sdc-nd/tree/master/01-lane-line-detection) |
