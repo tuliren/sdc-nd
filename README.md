@@ -27,3 +27,4 @@ Udacity Self-Driving Car Nanodegree Program
 - [Notebook](https://github.com/tuliren/self-driving-car-nd/blob/master/05-mini-flow/mini-flow.ipynb)
 
 ### [06 Introduction to TensorFlow](06-intro-to-tensorflow)
+- [Notebook](https://github.com/tuliren/self-driving-car-nd/blob/master/06-intro-to-tensorflow/notebook.ipynb)
