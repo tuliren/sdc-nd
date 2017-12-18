@@ -14,3 +14,5 @@ Udacity Self-Driving Car Nanodegree Program
   ![](https://raw.githubusercontent.com/tuliren/CarND-LaneLines-P1/master/test_images_output/intermediate-solidYellowCurve2.jpg)
 
 ### [04 Introduction to neural networks](04-intro-to-neural-networks/)
+
+<img src="https://github.com/tuliren/self-driving-car-nd/blob/master/04-intro-to-neural-networks/images/combination-of-neural-networks-2.png?raw=true" width="40%" height="40%">
