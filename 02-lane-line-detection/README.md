@@ -1,7 +1,7 @@
 Lane Line Detection
 ====
 
-# Start
+# Setup
 ```sh
 # brew install python3
 virtualenv -p /usr/local/bin/python3 venv
@@ -11,3 +11,7 @@ jupyter notebook
 ```
 
 `pillow` allows image processing for `jpg`.
+
+# Notes
+- [Color selection](https://github.com/tuliren/self-driving-car-nd/blob/master/02-lane-line-detection/color_selection_and_region.ipynb)
+- [Cannry edge detection](https://github.com/tuliren/self-driving-car-nd/blob/master/02-lane-line-detection/canny_edge_detection.ipynb)

@@ -1,4 +1,4 @@
-MiniFlow
+Introduction to Neural Networks
 ====
 
 # Setup
@@ -8,4 +8,4 @@ MiniFlow
 - Run `jupyter notebook .`
 
 # Notes
-- [Notebook](https://github.com/tuliren/self-driving-car-nd/blob/master/05-mini-flow/mini-flow.ipynb)
+- [Notebook](https://github.com/tuliren/self-driving-car-nd/blob/master/04-intro-to-neural-networks/intro_to_neural_networks.ipynb)
