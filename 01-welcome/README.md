@@ -1,3 +1,6 @@
+Welcome
+====
+
 # Two approaches
 - Robotic
   - Fuse output from sensors to measure vehicel surroundings and navigate accordingly
