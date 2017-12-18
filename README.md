@@ -19,7 +19,11 @@ Udacity Self-Driving Car Nanodegree Program
 ### [03 Career Services](03-career-services/)
 
 ### [04 Introduction to neural networks](04-intro-to-neural-networks/)
+- [Notebook](https://github.com/tuliren/self-driving-car-nd/blob/master/04-intro-to-neural-networks/intro_to_neural_networks.ipynb)
 
-<img src="https://github.com/tuliren/self-driving-car-nd/blob/master/04-intro-to-neural-networks/images/combination-of-neural-networks-2.png?raw=true" width="40%" height="40%">
+  <img src="https://github.com/tuliren/self-driving-car-nd/blob/master/04-intro-to-neural-networks/images/combination-of-neural-networks-2.png?raw=true" width="40%" height="40%">
 
 ### [05 MiniFlow](05-mini-flow/)
+- [Notebook](https://github.com/tuliren/self-driving-car-nd/blob/master/05-mini-flow/mini-flow.ipynb)
+
+### [06 Introduction to TensorFlow](06-intro-to-tensorflow)
